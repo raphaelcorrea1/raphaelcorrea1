@@ -1,9 +1,9 @@
-# Hi! I'm 237 :wave:
+# Hi! I'm Raphael Correa :wave:
 
     
 - :crossed_swords: Open to work, studying Web development and Hacking.
 - :computer: Analysis and systems development.
-- :email: My Discord: 237.
+- :email: My email contact: raphaelcorreacontato1@gmail.com
 
 ```C
 #include <stdio.h>
@@ -14,7 +14,7 @@ int main() {
     char *langs[4] = {"C", "Java", "JavaScript", "PHP"};
     char areas[4][50] = {"Pentest", "Red Team", "Web Development", "Software Development"};
 
-    // ... i hate CSS so much ^^
+    // ... CSS is not my passion 🤯
 
     return 0;
 
