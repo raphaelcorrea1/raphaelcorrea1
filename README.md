@@ -31,8 +31,8 @@ int main() {
       <img alt="SpringBoot" src="https://img.shields.io/badge/SpringBoot-000000?style=for-the-badge&logo=Spring&logoColor=6DB33F">  
       <img alt="HTML" src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=orange"> 
       <img alt="JavaScript" src="https://shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=yellow">
-      <img alt="Python" src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=blue">
-      <img alt="PHP" src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=blue">  
+      <img alt="PHP" src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=blue">
+      <img alt="Python" src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=blue">  
       <img alt="ShellScript" src="https://img.shields.io/badge/Shell_Script-000000?style=for-the-badge&logo=gnu-bash&logoColor=white">
       <img alt="Powershell" src="https://img.shields.io/badge/powershell-000000?style=for-the-badge&logo=powershell">
       <img alt="MySQL" src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white&labelColor=blue">
