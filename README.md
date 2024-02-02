@@ -10,9 +10,9 @@
 
 int main() {
 
-    char info[255] = "Cyber Security Student and Web Developer";
-    char *langs[4] = {"C", "Java", "JavaScript", "PHP"};
-    char areas[4][50] = {"Pentest", "Red Team", "Web Development", "Software Development"};
+    char *info = "Web Developer and Cyber Security Student";
+    char *langs[] = {"Java", "Java SpringBoot", "JPA/Hibernate", "PHP", "JavaScript", "C"};
+    char *areas[] = {"Web Development", "Software Development", "Pentest", "Red Team"};
 
     // ... CSS is not my passion 🤯
 
