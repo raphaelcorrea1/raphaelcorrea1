@@ -35,7 +35,7 @@ int main() {
       <img alt="PHP" src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=blue">  
       <img alt="ShellScript" src="https://img.shields.io/badge/Shell_Script-000000?style=for-the-badge&logo=gnu-bash&logoColor=white">
       <img alt="Powershell" src="https://img.shields.io/badge/powershell-000000?style=for-the-badge&logo=powershell">
-      <img alt="MySQL" src="https://shields.io/badge/MySQL-000000??style=for-the-badge&logo=mysql&style=plastic&logoColor=white&labelColor=blue">
+      <img alt="MySQL" src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white&labelColor=blue">
       <img alt="Linux" src="https://img.shields.io/badge/linux-000000?style=for-the-badge&logo=linux">
       <img alt="Windows" src="https://img.shields.io/badge/windows-000000?style=for-the-badge&logo=windows">
       <img alt="Git" src="https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git">
