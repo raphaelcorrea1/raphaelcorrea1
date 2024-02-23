@@ -14,7 +14,7 @@ int main(void) {
     char *langs[] = {"Java", "PHP", "JavaScript", "C", "Python", "ShellScript", "SQL"};
     char *areas[] = {"Web Development", "Software Development", "Pentest", "Red Team"};
 
-    // ... CSS is the final boss 🤯
+    // ... HTML and CSS is like a puzzle 🐱‍💻
 
     return 0;
 
